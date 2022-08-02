@@ -1,16 +1,128 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "creator": {
+        "id": 1,
+        "name": "john doe",
+        "bgImg": "https://picsum.photos/id/237/200/300",
+        "profilePic": "https://picsum.photos/id/23/200/300",
+        "creatorType": "video",
+        "posts": [
+          {
+            "id": 1,
+            "type": "poll",
+            "title": "post 1",
+            "date": "",
+            "time": "",
+            "image": ""
+          }
+        ],
+        "patronsList": [
+          {
+            "id": 1,
+            "name": "patron 1",
+            "email": "dummy@email.com",
+            "currentTier": "tier 1",
+            "pledge": "",
+            "LifeTime": "",
+            "status": true,
+            "joinData": "",
+            "lastCharge": ""
+          }
+        ],
+        "membershipTier": [
+          {
+            "id": 1,
+            "name": "tier 1",
+            "monthlyPrice": "12",
+            "description": "description of tier 1",
+            "coverImg": "https://picsum.photos/id/22/200/300",
+            "tierBenifits": [
+              "Access to bonus, never-before-seen content",
+              "Quarterly AMAs",
+              "Patron-only chat community to connect fans with each other"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "tier 2",
+            "monthlyPrice": "14",
+            "description": "description of tier 2",
+            "coverImg": "httxps://picsum.photos/id/28/200/300",
+            "tierBenifits": [
+              "Access to bonus, never-before-seen content",
+              "Quarterly AMAs",
+              "Patron-only chat community to connect fans with each other",
+              "Early access to videos",
+              "Patron shoutouts and recognition in videos/credits"
+            ]
+          }
+        ]
+      },
+      "patron": {}
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "creator": {
+        "id": 1,
+        "name": "john doe",
+        "bgImg": "https://picsum.photos/id/237/200/300",
+        "profilePic": "https://picsum.photos/id/23/200/300",
+        "creatorType": "video",
+        "posts": [
+          {
+            "id": 1,
+            "type": "poll",
+            "title": "post 1",
+            "date": "",
+            "time": "",
+            "image": ""
+          }
+        ],
+        "patronsList": [
+          {
+            "id": 1,
+            "name": "patron 1",
+            "email": "dummy@email.com",
+            "currentTier": "tier 1",
+            "pledge": "",
+            "LifeTime": "",
+            "status": true,
+            "joinData": "",
+            "lastCharge": ""
+          }
+        ],
+        "membershipTier": [
+          {
+            "id": 1,
+            "name": "tier 1",
+            "monthlyPrice": "12",
+            "description": "description of tier 1",
+            "coverImg": "https://picsum.photos/id/22/200/300",
+            "tierBenifits": [
+              "Access to bonus, never-before-seen content",
+              "Quarterly AMAs",
+              "Patron-only chat community to connect fans with each other"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "tier 2",
+            "monthlyPrice": "14",
+            "description": "description of tier 2",
+            "coverImg": "httxps://picsum.photos/id/28/200/300",
+            "tierBenifits": [
+              "Access to bonus, never-before-seen content",
+              "Quarterly AMAs",
+              "Patron-only chat community to connect fans with each other",
+              "Early access to videos",
+              "Patron shoutouts and recognition in videos/credits"
+            ]
+          }
+        ]
+      },
+      "patron": {}
     }
   ]
 }
