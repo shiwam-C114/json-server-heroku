@@ -9,8 +9,8 @@
               "bgImg": "https://picsum.photos/id/237/200/300",
               "profilePic": "https://picsum.photos/id/23/20/20",
               "creatorType": "video",
-              "posts": {
-                "0":
+              "posts": [
+               
                   {
                       "type": "image",
                       "title": "Marvel",
@@ -21,7 +21,6 @@
                       "visibility": "visible",
                       "likes": "234"
                   },
-                "1":
                   {
                       "type": "video",
                       "title": "Marvel",
@@ -32,7 +31,7 @@
                       "visibility": "visible",
                       "likes": "34"
                   }
-          },
+          ],
               "tiers": [
                   {
                       "name": "Tier 1",
