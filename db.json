@@ -21,7 +21,8 @@
                       "visibility": "visible",
                       "likes": "234",
                     "isLiked":true,
-                    "tier":"Tier 1"
+                    "tier":"Tier 1",
+                    "index":0
                   },
                   {
                       "type": "video",
@@ -33,7 +34,8 @@
                       "visibility": "visible",
                       "likes": "34",
                     "isLiked": false,
-                    "tier":"Tier 3"
+                    "tier":"Tier 3",
+                    "index":1
                   }
           ],
               "tiers": [
