@@ -37,25 +37,32 @@
                   }
           ],
               "tiers": [
+                 {
+                      "name": "Free",
+                      "monthlyPrice": "0",
+                      "tierdescription": "this is free tier description",
+                      "cover_image": "https://picsum.photos/id/23/200/300",
+                      "benefits": "Not ad-free Content"
+                  },
                   {
                       "name": "Tier 1",
                       "monthlyPrice": "4.25",
-                      "tierdescription": "this is tier description",
+                      "tierdescription": "this is tier 1 description",
                       "cover_image": "https://picsum.photos/id/23/200/300",
                       "benefits": "Add-free Content"
                   },
                   {
                       "name": "Tier 2",
                       "monthlyPrice": "6",
-                      "tierdescription": "this is tier description333",
+                      "tierdescription": "this is tier 2 description333",
                       "cover_image": "https://picsum.photos/id/23/200/300",
                       "benefits": "Add-free Content,Digital Downloads "
                   },
                   {
                       "name": "Tier 3",
                       "monthlyPrice": "15",
-                      "tierdescription": "this is tier description 23232232",
-                      "cover_image": "https://picsum.photos/id/23/200/300",
+                      "tierdescription": "this is tier 3 description 23232232",
+                      "cover_image": "https://picsum.photos/id/123/200/300",
                       "benefits": "Add-free Content,Digital Downloads, Early Ticket Access"
                   }
               ],
