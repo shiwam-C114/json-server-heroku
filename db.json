@@ -20,7 +20,8 @@
                       "content_url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/70045669/428f8fb3df4143818285f5ff3c4bb6da/eyJ3Ijo2MjB9/1.jpg?token-time=1660867200&token-hash=AlBwP3LO_pWGwwgtIPJyFSkFXnQ6NlcQIo-eTi-O12k%3D",
                       "visibility": "visible",
                       "likes": "234",
-                    "isLiked":true
+                    "isLiked":true,
+                    "tier":"Tier 1"
                   },
                   {
                       "type": "video",
@@ -31,7 +32,8 @@
                       "content_url": "https://picsum.photos/1920/1080",
                       "visibility": "visible",
                       "likes": "34",
-                    "isLiked": false
+                    "isLiked": false,
+                    "tier":"Tier 3"
                   }
           ],
               "tiers": [
