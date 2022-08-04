@@ -6,7 +6,7 @@
           "password": "admin",
           "creator_mode": {
               "creatormode_name": "John Doe",
-              "bgImg": "https://picsum.photos/id/237/200/300",
+              "bgImg": "https://picsum.photos/id/237/1080/1920",
               "profilePic": "https://picsum.photos/id/23/200/200",
               "creatorType": "video",
               "posts": [
