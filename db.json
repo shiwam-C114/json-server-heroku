@@ -7,9 +7,10 @@
           "creator_mode": {
               "creatormode_name": "John Doe",
               "bgImg": "https://picsum.photos/id/237/200/300",
-              "profilePic": "https://picsum.photos/id/23/200/300",
+              "profilePic": "https://picsum.photos/id/23/20/20",
               "creatorType": "video",
-              "posts": [
+              "posts": {
+                "0":
                   {
                       "type": "image",
                       "title": "Marvel",
@@ -19,8 +20,19 @@
                       "content_url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/70045669/428f8fb3df4143818285f5ff3c4bb6da/eyJ3Ijo2MjB9/1.jpg?token-time=1660867200&token-hash=AlBwP3LO_pWGwwgtIPJyFSkFXnQ6NlcQIo-eTi-O12k%3D",
                       "visibility": "visible",
                       "likes": "234"
+                  },
+                "1":
+                  {
+                      "type": "video",
+                      "title": "Marvel",
+                      "desc": "This Is a Dummy video Post 1",
+                      "date": "20 July 2022",
+                      "time": "19:24",
+                      "content_url": "https://picsum.photos/1920/1080",
+                      "visibility": "visible",
+                      "likes": "34"
                   }
-              ],
+          },
               "tiers": [
                   {
                       "name": "Tier 1",
