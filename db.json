@@ -96,16 +96,16 @@
                   {
                     "id":2,
                     "Liked":{
-                            0:true,
-                            1:false
+                            "0":false,
+                            "1":true
                             },
                       "name": "Jack Jack",
                       "email": "jack@email.com"
                   },
                   { "id":4,
                     "Liked":{
-                            0:true,
-                            1:false
+                            "0":true,
+                            "1":false
                             },
                       "name": "Jimmy",
                       "email": "jimmy@email.com"
@@ -113,8 +113,8 @@
                   {
                     "id":6,
                     "Liked":{
-                            0:true,
-                            1:false
+                            "0":false,
+                            "1":false
                             },
                       "name": "Andrew",
                       "email": "andrew@email.com"
@@ -122,8 +122,8 @@
                   {
                      "id":9,
                     "Liked":{
-                            0:true,
-                            1:false
+                            "0":true,
+                            "1":true
                             },
                       "name": "Adam",
                       "email": "adam@email.com"
