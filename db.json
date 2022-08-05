@@ -104,6 +104,7 @@
               ]
           },
           "patron_mode": {
+            "patronmode_name":"little jon",
               "subscribed_to": [
                   {
                     "id":2,
