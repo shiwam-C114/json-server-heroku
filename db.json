@@ -72,22 +72,34 @@
                   {
                       "name": "Jack Jack",
                       "email": "jack@email.com",
-                      "current_tier": "Tier 1"
+                      "current_tier": "Tier 1",
+                      "pledge":"1 month",
+                      "status": "active",
+                      "join_date":"14 july 2022"
                   },
                   {
                       "name": "Jimmy",
                       "email": "jimmy@email.com",
-                      "current_tier": "Tier 1"
+                      "current_tier": "Tier 2",
+                      "pledge":"4 months",
+                      "status": "new",
+                      "join_date":"4 june 2022"
                   },
                   {
                       "name": "Andrew",
                       "email": "andrew@email.com",
-                      "current_tier": "Tier 1"
+                      "current_tier": "Tier 3",
+                      "pledge":"1 year",
+                      "status": "offline",
+                      "join_date":"4 jan 2022"
                   },
                   {
                       "name": "Adam",
                       "email": "adam@email.com",
-                      "current_tier": "Tier 1"
+                      "current_tier": "Tier 1",
+                      "pledge":"6 months",
+                      "status": "active",
+                      "join_date":"14 feb 2022"
                   }
               ]
           },
