@@ -108,39 +108,17 @@
               "subscribed_to": [
                   {
                     "id":2,
-                    "Liked":{
-                            "0":false,
-                            "1":true
-                            },
-                      "name": "Jack Jack",
-                      "email": "jack@email.com"
+                    "Liked":[0,2,4]
                   },
                   { "id":4,
-                    "Liked":{
-                            "0":true,
-                            "1":false
-                            },
-                      "name": "Jimmy",
-                      "email": "jimmy@email.com"
-                  },
+                    "Liked":[1,2]
                   {
                     "id":6,
-                    "Liked":{
-                            "0":false,
-                            "1":false
-                            },
-                      "name": "Andrew",
-                      "email": "andrew@email.com"
+                    "Liked":[0,3]
                   },
                   {
                      "id":9,
-                    "Liked":{
-                            "0":true,
-                            "1":true
-                            },
-                      "name": "Adam",
-                      "email": "adam@email.com"
-                  }
+                    "Liked":[1,3]
               ]
           }
       }
