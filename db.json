@@ -30,7 +30,7 @@
                       "desc": "This Is a Dummy video Post 1",
                       "date": "20 July 2022",
                       "time": "19:24",
-                      "content_url": "https://picsum.photos/1920/1080",
+                      "content_url": "https://picsum.photos/id/238/1920/1080",
                       "visibility": "visible",
                       "likes": "34",
                     "isLiked": false,
@@ -138,7 +138,7 @@
               "desc": "This Is a Dummy Post 1",
               "date": "20 July 2022",
               "time": "19:24",
-              "content_url": "https://picsum.photos/1920/1080",
+              "content_url": "https://picsum.photos/id/239/1920/1080",
               "visibility": "visible",
               "likes": "2"
             },{
@@ -147,7 +147,7 @@
                 "desc": "This Is a Dummy Post 2",
                 "date": "2 July 2022",
                 "time": "19:24",
-                "content_url": "https://picsum.photos/1920/1080",
+                "content_url": "https://picsum.photos/id/240/1920/1080",
                 "visibility": "visible",
                 "likes": "34"
               }
@@ -231,7 +231,7 @@
             "desc": "This Is a DC Post 1",
             "date": "20 July 2022",
             "time": "19:24",
-            "content_url": "https://picsum.photos/1920/1080",
+            "content_url": "https://picsum.photos/id/241/1920/1080",
             "visibility": "visible",
             "likes": "1"
           },{
@@ -240,7 +240,7 @@
               "desc": "This Is a CD Post 2",
               "date": "2 July 2022",
               "time": "19:24",
-              "content_url": "https://picsum.photos/1920/1080",
+              "content_url": "https://picsum.photos/id/242/1920/1080",
               "visibility": "visible",
               "likes": "3"
             }],
@@ -266,7 +266,7 @@
             "desc": "This Is a Desi Post 1",
             "date": "10 July 2022",
             "time": "19:24",
-            "content_url": "https://picsum.photos/1920/1080",
+            "content_url": "https://picsum.photos/id/243/1920/1080",
             "visibility": "visible",
             "likes": "12"
           },{
@@ -275,7 +275,7 @@
               "desc": "This Is a DESI Post 2",
               "date": "2 July 2022",
               "time": "19:24",
-              "content_url": "https://picsum.photos/1920/1080",
+              "content_url": "https://picsum.photos/id/244/1920/1080",
               "visibility": "visible",
               "likes": "304"
             }],
