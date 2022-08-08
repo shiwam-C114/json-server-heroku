@@ -222,9 +222,9 @@
         "password": "admin",
         "creator_mode": {
           "creatormode_name": "Atharva",
-          "bgImg": "",
-          "profilePic": "",
-          "creatorType": "",
+          "bgImg": "https://picsum.photos/1920/1080",
+          "profilePic": "https://picsum.photos/id/233/200/200",
+          "creatorType": "podcast",
           "posts": [ {
             "type": "image",
             "title": "DC",
@@ -257,8 +257,8 @@
         "password": "password",
         "creator_mode": {
           "creatormode_name": "AMAR",
-          "bgImg": "",
-          "profilePic": "",
+          "bgImg": "https://picsum.photos/1920/1080",
+          "profilePic": "https://picsum.photos/id/243/200/200",
           "creatorType": "",
           "posts": [ {
             "type": "image",
