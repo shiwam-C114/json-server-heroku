@@ -105,25 +105,191 @@
           },
           "patron_mode": {
             "patronmode_name":"little jon",
+            "profilePic": "https://picsum.photos/200/200",
               "subscribed_to": [
                   {
                     "id":2,
                     "Liked":[0,2,4]
                   },
-                  { "id":4,
+                  { "id":3,
                     "Liked":[1,2]
                 },
                   {
-                    "id":6,
+                    "id":4,
                     "Liked":[0,3]
                   },
                   {
-                     "id":9,
+                     "id":5,
                     "Liked":[1,3]
                 }
 
               ]
           }
+      },
+      {
+        "id": 2,
+        "email": "abc@email.com",
+        "password": "admin",
+        "creator_mode": {
+          "creatormode_name": "Johni Doie",
+          "bgImg": "https://picsum.photos/id/37/1920/1080",
+          "profilePic": "https://picsum.photos/id/23/200/300",
+          "creatorType": "video",
+          "posts": [
+            {
+              "type": "image",
+              "title": "Marvel",
+              "desc": "This Is a Dummy Post 1",
+              "date": "20 July 2022",
+              "time": "19:24",
+              "content_url": "https://picsum.photos/1920/1080",
+              "visibility": "visible",
+              "likes": "2"
+            },{
+                "type": "image",
+                "title": "not Marvel",
+                "desc": "This Is a Dummy Post 2",
+                "date": "2 July 2022",
+                "time": "19:24",
+                "content_url": "https://picsum.photos/1920/1080",
+                "visibility": "visible",
+                "likes": "34"
+              }
+          ],
+          "tiers": [
+            {
+              "name": "Tier 1",
+              "monthlyPrice": "4.25",
+              "tierdescription": "this is tier description",
+              "cover_image": "https://picsum.photos/id/23/200/300",
+              "benefits": "Add-free Content"
+            },
+            {
+              "name": "Tier 2",
+              "monthlyPrice": "6",
+              "tierdescription": "this is tier description333",
+              "cover_image": "https://picsum.photos/id/23/200/300",
+              "benefits": "Add-free Content,Digital Downloads "
+            },
+            {
+              "name": "Tier 3",
+              "monthlyPrice": "15",
+              "tierdescription": "this is tier description 23232232",
+              "cover_image": "https://picsum.photos/id/23/200/300",
+              "benefits": "Add-free Content,Digital Downloads, Early Ticket Access"
+            }
+          ],
+          "subscriber_patrons": [
+            {
+              "name": "Jack Jack",
+              "email": "jack@email.com",
+              "current_tier": "Tier 1"
+            },
+            {
+              "name": "Jimmy",
+              "email": "jimmy@email.com",
+              "current_tier": "Tier 1"
+            },
+            {
+              "name": "Andrew",
+              "email": "andrew@email.com",
+              "current_tier": "Tier 1"
+            },
+            {
+              "name": "Adam",
+              "email": "adam@email.com",
+              "current_tier": "Tier 1"
+            }
+          ]
+        },
+        "patron_mode": {
+            "patronmode_name":"little jon2i",
+            "profilePic": "https://picsum.photos/200/200",
+          "subscribed_to": [
+            
+              { "id":3,
+                "Liked":[0,1]
+            },
+              {
+                "id":4,
+                "Liked":[0,3]
+              },
+              {
+                 "id":5,
+                "Liked":[1,3]
+            }
+          ]
+        }
+      },
+      {
+        "email": "atharvatribhuwane@dpcoepune.edu.in",
+        "password": "admin",
+        "creator_mode": {
+          "creatormode_name": "Atharva",
+          "bgImg": "",
+          "profilePic": "",
+          "creatorType": "",
+          "posts": [ {
+            "type": "image",
+            "title": "DC",
+            "desc": "This Is a DC Post 1",
+            "date": "20 July 2022",
+            "time": "19:24",
+            "content_url": "https://picsum.photos/1920/1080",
+            "visibility": "visible",
+            "likes": "1"
+          },{
+              "type": "image",
+              "title": "not CD",
+              "desc": "This Is a CD Post 2",
+              "date": "2 July 2022",
+              "time": "19:24",
+              "content_url": "https://picsum.photos/1920/1080",
+              "visibility": "visible",
+              "likes": "3"
+            }],
+          "tiers": [],
+          "subscriber_patrons": []
+        },
+        "patron_mode": {
+          "subscribed_to": []
+        },
+        "id": 3
+      },
+      {
+        "email": "amar@email.com",
+        "password": "password",
+        "creator_mode": {
+          "creatormode_name": "AMAR",
+          "bgImg": "",
+          "profilePic": "",
+          "creatorType": "",
+          "posts": [ {
+            "type": "image",
+            "title": "desi post",
+            "desc": "This Is a Desi Post 1",
+            "date": "10 July 2022",
+            "time": "19:24",
+            "content_url": "https://picsum.photos/1920/1080",
+            "visibility": "visible",
+            "likes": "12"
+          },{
+              "type": "image",
+              "title": "not Desi",
+              "desc": "This Is a DESI Post 2",
+              "date": "2 July 2022",
+              "time": "19:24",
+              "content_url": "https://picsum.photos/1920/1080",
+              "visibility": "visible",
+              "likes": "304"
+            }],
+          "tiers": [],
+          "subscriber_patrons": []
+        },
+        "patron_mode": {
+          "subscribed_to": []
+        },
+        "id": 4
       }
   ]
 }
